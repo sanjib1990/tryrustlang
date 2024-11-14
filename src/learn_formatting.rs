@@ -1,4 +1,4 @@
-fn main() {
+pub(crate) fn tryformatting() {
     println!("Hello, world!");
     println!("I'm a Rustacean!");
 
